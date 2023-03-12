@@ -1,5 +1,5 @@
 const nextConfig = {
-  basePath: "https://synagir.github.io/nextText",
+  basePath: "nextText",
 };
 
 module.exports = nextConfig;
