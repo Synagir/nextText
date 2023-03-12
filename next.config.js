@@ -1,5 +1,5 @@
 const nextConfig = {
-  basePath: "nextText",
+  basePath: "/nextText",
 };
 
 module.exports = nextConfig;
